@@ -39,3 +39,14 @@ public class Principal {
     }
 
 }
+//    Só é possível abrir a caçamba se o carro estiver parado
+//        Só é possível ativar ou desativar a tração integral se o veículo estiver
+//        parado
+//        Só é possível ativar a tração integral se o veículo anfíbio estiver com
+//        as rodas abertas
+//        Só é possível abrir ou fechar a capota se o carro estiver parado, com
+//        exceção da Ferrari, pois essa permite fazer isso se a velocidade
+//        estiver abaixo dos 20km/h
+//        Ao recolher as rodas é necessário esvaziar o lastro
+//        Se necessário, modifique a hierarquia de classes para melhorar o
+//        projeto

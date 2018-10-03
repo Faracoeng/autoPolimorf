@@ -9,7 +9,19 @@ public class Pampa extends Veiculo implements TracaoIntegral {
         super(n);
         cacambaFechada = true;
         tracaoIntegral = false;
+
     }
+
+
+
+
+
+
+
+
+
+
+
 
 
     @Override

@@ -11,6 +11,7 @@ public class Pampa extends Veiculo implements TracaoIntegral {
         tracaoIntegral = false;
     }
 
+
     @Override
     public boolean ativarDesativarTracao() {
         tracaoIntegral = !tracaoIntegral;
